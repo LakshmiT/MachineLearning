@@ -1,2 +1,2 @@
-# ML_Tutorial
-MachineLearning Tutorial
+# ML_Projects
+MachineLearning Projects
